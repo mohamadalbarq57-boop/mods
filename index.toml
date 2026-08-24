@@ -106,6 +106,10 @@ hash = "0c230efab908d4c68155aaf5784b60c18b72dad0e212b2d2df38ab51a4ba56a1"
 metafile = true
 
 [[files]]
+file = "mods/packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
 metafile = true
@@ -149,3 +153,7 @@ metafile = true
 file = "mods/ycurrenci.pw.toml"
 hash = "26b4682ea582930a9271c57279b1f7fc05832020b713078ccdd0981218a46082"
 metafile = true
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
