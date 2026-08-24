@@ -1,0 +1,156 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/anvil-never-too-expensive.pw.toml"
+hash = "9451d3e47aa74425c4de5fe855c6c7a49280c16ab3c08a00056ebc3e98c37780"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+metafile = true
+
+[[files]]
+file = "mods/butchery.pw.toml"
+hash = "e547c6b1b2701c6f2ef2d5a59b19cfd97b39c6745791b431ae64fbcbc263d6c9"
+metafile = true
+
+[[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "ea66cd2caa9bbc2adb768f142bf717e0845ba33815f828daa26b10c543dd86db"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "98250d952145b18c452883997e7e675d445bfce33e9afb35bf372040c429a179"
+metafile = true
+
+[[files]]
+file = "mods/d-placeable-food.pw.toml"
+hash = "10dc0cea9546e460a2f3876038884aa843475e2e6c1501d1b60b70cc3f9726ae"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "f1ae54bb7e968ce205f8bdfbb793485ebb9a72bad2285d2bdf72a48be2ecfc0a"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "e206e53e79c196615bebfc9f5dfa943c11c1361e1c7dc4f8f952c86b95e0f0ca"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "6fa984dc1b5905ae909b417ed1cd92d6b536ba4832ed8c8d95aa9d424ad789df"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "276e79d919c3a698ab2881d784544b7e60bef69b43f44808353bb65d38633cb3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "4b0a995f7cfa19951ba585aa320a1f4ef1a755a38b608adcff2f9ddd156b195b"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "af8428daaf08a29dec8f58f71bcd9e32bf564203754f71b184f6ebb8b09a0c77"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "cc9ff8f836b242932bc70428c785c1b24838bf4a008f1614aa8c2fcbd3fd86d4"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-web-map.pw.toml"
+hash = "d6d2477b9f65f4493eb767051ee354d7a792762b5ca55955f1ef606d429ceef7"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "eb38fb4e5d07b2f9a9777022abc12720ba9533c75cfd0cc0309002a432872545"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "9897d053032dcfb345567234dd6fb57debb7a52dbe08c06c9bbaef12cdf2e0f2"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+metafile = true
+
+[[files]]
+file = "mods/nightvision-enchantment.pw.toml"
+hash = "5dcb4e63b5bde39410900100d5c0bac497f6017a4d96662b7f5d900a5be4ba11"
+metafile = true
+
+[[files]]
+file = "mods/order-to-cook.pw.toml"
+hash = "0c230efab908d4c68155aaf5784b60c18b72dad0e212b2d2df38ab51a4ba56a1"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "9f0a36fc8540ac5d4b9fc3944b5dd4c0e097d0a189f84a95efc5f77cfd891c1f"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "dff2a187673c7be53d9f4d9efbad23d8c7f71aa607e77facadb632e978099579"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "36f88cb2feecf33ec2933b3fc9e77fac2fbf3b04acde286ee17619afd8d8ad5d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "12b0f46799fdfab546f65fdf4225dbc26ae46fcf0fd2a7a74b5037fdb1d0825b"
+metafile = true
+
+[[files]]
+file = "mods/voxelized-furniture.pw.toml"
+hash = "a65fcda2da6373f738660f12ece222d6a0336430d9ee1a490680c8b5dcd69960"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
+metafile = true
+
+[[files]]
+file = "mods/ycurrenci.pw.toml"
+hash = "26b4682ea582930a9271c57279b1f7fc05832020b713078ccdd0981218a46082"
+metafile = true

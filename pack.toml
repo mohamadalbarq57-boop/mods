@@ -1,0 +1,13 @@
+name = "mc mods"
+author = "Mohammed Albarq"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "416cbdfa6bd1b323c1004a9d1f7d0576277c33d202814e4a6bdf8a72767d6cf6"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"

@@ -1,0 +1,13 @@
+name = ".3D Placeable Food"
+filename = "3d_placeable_food-2.4.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "512dd02aa5c4f819e667eb50cec6d6c7114bd0a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5844592
+project-id = 886102

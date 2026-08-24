@@ -1,0 +1,13 @@
+name = "Furniture - Voxelized Furniture"
+filename = "voxelized_furniture-1.6-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7d7d66f02b0706d7a83d73d7c7db18f831d86a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8562775
+project-id = 1440988

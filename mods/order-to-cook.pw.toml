@@ -1,0 +1,13 @@
+name = "Order to cook"
+filename = "ordertocook-1.3.6-neoforge1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "363e91732d863b561daaae448a7f9fee7b38cde4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8630047
+project-id = 1471589
