@@ -106,6 +106,11 @@ hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
 metafile = true
 
 [[files]]
+file = "mods/item-collectors.pw.toml"
+hash = "39204787792da3c753c868898f8354d4aa8c73897cda78c178af1d9b2e073abb"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "4b0a995f7cfa19951ba585aa320a1f4ef1a755a38b608adcff2f9ddd156b195b"
 metafile = true
@@ -128,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "eb38fb4e5d07b2f9a9777022abc12720ba9533c75cfd0cc0309002a432872545"
+metafile = true
+
+[[files]]
+file = "mods/just-dire-things.pw.toml"
+hash = "fd6d935a0145a7992c3ba365c66f655c65587c9c812db55adab264144e11ce3f"
 metafile = true
 
 [[files]]
@@ -193,6 +203,21 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "12b0f46799fdfab546f65fdf4225dbc26ae46fcf0fd2a7a74b5037fdb1d0825b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "d50dfa866f719fe606d34bb81b0e466c1e6017878fa6b58b405e419ceaf9ee0d"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "ec1a263c37a91bac79cd13d940d05eb45d869850a97f613bf07756273095fe15"
 metafile = true
 
 [[files]]
