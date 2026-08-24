@@ -1,46 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/3d_placeable_food-2.4.0-neoforge-1.21.1.jar"
-hash = "571f4d50f47d58143ba365b6caed5054232cf1a8a9d97ca752d10e85e1b74887"
-
-[[files]]
-file = "mods/AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar"
-hash = "95ec7ae8bafcd1cbde94fb6c5052c72c4d35985dc0b844201ad5b41870b94100"
-
-[[files]]
-file = "mods/ExplorersCompass-1.21.1-3.4.0-neoforge.jar"
-hash = "71e7b47bd88c9c210d7c06fe5276736fc2e225e869778216537d584e6d1faf24"
-
-[[files]]
-file = "mods/Jade-1.21.1-NeoForge-15.10.6.jar"
-hash = "276f1f65a20d04f536989c4f311949d770b52c440c23c2b904a08860f3c93810"
-
-[[files]]
-file = "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
-hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
-
-[[files]]
-file = "mods/Patchouli-1.21.1-93-NEOFORGE.jar"
-hash = "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993"
-
-[[files]]
 file = "mods/anvil-never-too-expensive.pw.toml"
 hash = "9451d3e47aa74425c4de5fe855c6c7a49280c16ab3c08a00056ebc3e98c37780"
 metafile = true
 
 [[files]]
-file = "mods/architectury-13.0.11-neoforge.jar"
-hash = "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
-
-[[files]]
-file = "mods/butchery-5.2-neoforge-1.21.1.jar"
-hash = "ee14ee5c059563d917683293590ccc9652d0da7201293ee3b356e7e0d8fd5db5"
 
 [[files]]
 file = "mods/butchery.pw.toml"
@@ -53,26 +21,14 @@ hash = "ea66cd2caa9bbc2adb768f142bf717e0845ba33815f828daa26b10c543dd86db"
 metafile = true
 
 [[files]]
-file = "mods/camera-neoforge-1.21.1-1.0.22.jar"
-hash = "9df29ae6f40e1aa9a7abdb9811403b3c00045fa7a5c59eba34f476d4b5d99499"
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "98250d952145b18c452883997e7e675d445bfce33e9afb35bf372040c429a179"
 metafile = true
 
 [[files]]
-file = "mods/carryon-neoforge-1.21.1-2.2.6.13.jar"
-hash = "d4f9576b6593db9486a89d35c1d84c31ee89141d99dbae2aa470350ab53c4e09"
-
-[[files]]
 file = "mods/d-placeable-food.pw.toml"
 hash = "10dc0cea9546e460a2f3876038884aa843475e2e6c1501d1b60b70cc3f9726ae"
 metafile = true
-
-[[files]]
-file = "mods/easy-villagers-neoforge-1.21.1-1.1.42.jar"
-hash = "e093c86ce419fc1fab1533bed5fa95b509b1f7240760c5ab628de228b55c9d50"
 
 [[files]]
 file = "mods/easy-villagers.pw.toml"
@@ -85,10 +41,6 @@ hash = "e206e53e79c196615bebfc9f5dfa943c11c1361e1c7dc4f8f952c86b95e0f0ca"
 metafile = true
 
 [[files]]
-file = "mods/ftb-essentials-neoforge-2101.1.10.jar"
-hash = "a61de1b883ec9d6d652276f453e8e60b18bd315fef8c62f21d6545260d526587"
-
-[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "6fa984dc1b5905ae909b417ed1cd92d6b536ba4832ed8c8d95aa9d424ad789df"
 metafile = true
@@ -99,21 +51,9 @@ hash = "276e79d919c3a698ab2881d784544b7e60bef69b43f44808353bb65d38633cb3"
 metafile = true
 
 [[files]]
-file = "mods/ftb-library-neoforge-2101.1.35.jar"
-hash = "be7b2bd0b5370a9951624a1d84fd802efecae88d5a0cd24552731f887430599d"
-
-[[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
 metafile = true
-
-[[files]]
-file = "mods/ftb-ultimine-neoforge-2101.1.15.jar"
-hash = "1393a85ceb6e4794450d5f06043e3a033278e31b86de8e03950d8b87604b2213"
-
-[[files]]
-file = "mods/geckolib-neoforge-1.21.1-4.9.2.jar"
-hash = "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba"
 
 [[files]]
 file = "mods/geckolib.pw.toml"
@@ -126,17 +66,9 @@ hash = "4b0a995f7cfa19951ba585aa320a1f4ef1a755a38b608adcff2f9ddd156b195b"
 metafile = true
 
 [[files]]
-file = "mods/jamlib-neoforge-1.3.6+1.21.1.jar"
-hash = "911afdfe717a2375a651253e282ac9e769f8bead381d33c2167955c25eefe514"
-
-[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "af8428daaf08a29dec8f58f71bcd9e32bf564203754f71b184f6ebb8b09a0c77"
 metafile = true
-
-[[files]]
-file = "mods/jei-1.21.1-neoforge-19.44.0.403.jar"
-hash = "31890ccbaf93cf90e2816b8f7cfb5a1340fe20bd8a1680a84e0050f7e07769bd"
 
 [[files]]
 file = "mods/jei.pw.toml"
@@ -144,26 +76,14 @@ hash = "cc9ff8f836b242932bc70428c785c1b24838bf4a008f1614aa8c2fcbd3fd86d4"
 metafile = true
 
 [[files]]
-file = "mods/journeymap-neoforge-1.21.1-6.0.5.jar"
-hash = "c48a710539ca829e04b2bcc29a4adda3a4097df0c9ca4844b984dfa921c2da10"
-
-[[files]]
 file = "mods/journeymap-web-map.pw.toml"
 hash = "d6d2477b9f65f4493eb767051ee354d7a792762b5ca55955f1ef606d429ceef7"
 metafile = true
 
 [[files]]
-file = "mods/journeymap-webmap-neoforge-1.21.4-1.0.10.jar"
-hash = "3f8eb29d7d2bdbabbd585e6a4ea65a4f906b04612363c3c81ae490675bfc4a25"
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "eb38fb4e5d07b2f9a9777022abc12720ba9533c75cfd0cc0309002a432872545"
 metafile = true
-
-[[files]]
-file = "mods/lootr-neoforge-1.21.1-1.11.38.124.jar"
-hash = "2d51854171dfbee4f19b43030d021d25557535ff601e521ea5899dc8d9c61717"
 
 [[files]]
 file = "mods/lootr.pw.toml"
@@ -181,17 +101,9 @@ hash = "5dcb4e63b5bde39410900100d5c0bac497f6017a4d96662b7f5d900a5be4ba11"
 metafile = true
 
 [[files]]
-file = "mods/nightvisionenchantment-neoforge-2.0.2+1.21.1.jar"
-hash = "f275303291f23f96f0d32045b9e60778af3f1af9fb1d1915afb5fb5a50123d9c"
-
-[[files]]
 file = "mods/order-to-cook.pw.toml"
 hash = "0c230efab908d4c68155aaf5784b60c18b72dad0e212b2d2df38ab51a4ba56a1"
 metafile = true
-
-[[files]]
-file = "mods/ordertocook-1.3.6-neoforge1.21.1.jar"
-hash = "78c6070a0f6db59660b45ba37d5fbc653228a5907483cebf404206a550a347d1"
 
 [[files]]
 file = "mods/patchouli.pw.toml"
@@ -199,17 +111,9 @@ hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
 metafile = true
 
 [[files]]
-file = "mods/polymorph-neoforge-1.1.0+1.21.1.jar"
-hash = "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b"
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
 metafile = true
-
-[[files]]
-file = "mods/rightclickharvest-neoforge-4.6.1+1.21.1.jar"
-hash = "b5d597ed361964ba9530a848fe8987715f40af2390dfa1a6adb70a2a74076d52"
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
@@ -227,34 +131,14 @@ hash = "12b0f46799fdfab546f65fdf4225dbc26ae46fcf0fd2a7a74b5037fdb1d0825b"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar"
-hash = "ece652898740ae68ce3c0d5f29606e0616f08360bfd429e380a137091909929d"
-
-[[files]]
-file = "mods/sophisticatedcore-1.21.1-1.4.89.2291.jar"
-hash = "42b33df38183c73bf19bbc2031ee1f95fe44aa300ad62f016d3676b10e9f2c1d"
-
-[[files]]
 file = "mods/voxelized-furniture.pw.toml"
 hash = "a65fcda2da6373f738660f12ece222d6a0336430d9ee1a490680c8b5dcd69960"
 metafile = true
 
 [[files]]
-file = "mods/voxelized_furniture-1.6-neoforge-1.21.1.jar"
-hash = "a9e3bbcd1a99b68cc9beb1a9a9c02d348eae9a7be805787dfc1f126a25ab69d5"
-
-[[files]]
-file = "mods/worldedit-mod-7.3.8.jar"
-hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"
-
-[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
 metafile = true
-
-[[files]]
-file = "mods/ycurrenci-2.1.0-neoforge-1.21.1.jar"
-hash = "7b4c71c5917b7dcad17cb046c52cecdcca16564f4f52e28f53d6694d4a41d0de"
 
 [[files]]
 file = "mods/ycurrenci.pw.toml"
