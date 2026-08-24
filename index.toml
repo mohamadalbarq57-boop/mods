@@ -1,18 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
+metafile = true
+
+[[files]]
 file = "mods/anvil-never-too-expensive.pw.toml"
 hash = "9451d3e47aa74425c4de5fe855c6c7a49280c16ab3c08a00056ebc3e98c37780"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "98de570e4873e332455e5526ed5b62779cdb23c217efac51ad864ae510861456"
 metafile = true
 
 [[files]]
 file = "mods/butchery.pw.toml"
 hash = "e547c6b1b2701c6f2ef2d5a59b19cfd97b39c6745791b431ae64fbcbc263d6c9"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
 
 [[files]]
@@ -26,6 +46,21 @@ hash = "98250d952145b18c452883997e7e675d445bfce33e9afb35bf372040c429a179"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/curios-continuation.pw.toml"
+hash = "237a52e17edfb00eb82851640f45fadfa4faefd99c3dec98628f013fe41a1dc5"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
 file = "mods/d-placeable-food.pw.toml"
 hash = "10dc0cea9546e460a2f3876038884aa843475e2e6c1501d1b60b70cc3f9726ae"
 metafile = true
@@ -33,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "f1ae54bb7e968ce205f8bdfbb793485ebb9a72bad2285d2bdf72a48be2ecfc0a"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
 
 [[files]]
@@ -86,6 +126,16 @@ hash = "eb38fb4e5d07b2f9a9777022abc12720ba9533c75cfd0cc0309002a432872545"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "0a509504c937a398ccabc71d56029690d43806378c7121928776407083c669ef"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "64acab1580ca6edd8b1dd185e914aeee7aa551a88a7cd7f0f9370a82aaadfef6"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "9897d053032dcfb345567234dd6fb57debb7a52dbe08c06c9bbaef12cdf2e0f2"
 metafile = true
@@ -96,6 +146,11 @@ hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
+metafile = true
+
+[[files]]
 file = "mods/nightvision-enchantment.pw.toml"
 hash = "5dcb4e63b5bde39410900100d5c0bac497f6017a4d96662b7f5d900a5be4ba11"
 metafile = true
@@ -103,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/order-to-cook.pw.toml"
 hash = "0c230efab908d4c68155aaf5784b60c18b72dad0e212b2d2df38ab51a4ba56a1"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
